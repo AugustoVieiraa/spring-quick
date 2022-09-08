@@ -1,5 +1,5 @@
 # Projeto de spring boot seguindo o Spring Quickstart Guide
-Realizado seguindo os passos descritos em: https://spring.io/quickstart
+Realizado seguindo o passo-a-passo descrito em: https://spring.io/quickstart
 
 - O primeiro passo foi criar um projeto web em: https://start.spring.io/
 - O segundo passo foi adicionar um código de exemplo para imprimir um "Hello World" na tela, e caso receber uma string como parametro imprimir "Hello string". O arquivo editado foi o "DemoApplication.java" encontrado na pasta "src/main/java/com/example/demo". Ficando da seguinte forma:
